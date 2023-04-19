@@ -1,5 +1,5 @@
-# Trading Bot
-Trading bot for Binance Crypto Exchange in Python programming language with python-binance library.
+# Auto Trading Bot
+Trading bot for ***Binance Crypto Exchange*** in ***Python*** programming language with python-binance library.
 
 Signals that Trading bot uses:
   - ***Moving Average*** (Currently)
